@@ -171,3 +171,10 @@ This repository contains a carefully curated collection of papers discussed in o
 |   25.04   |  X-Guard: Multilingual Guard Agent for Content Moderation | Arxiv | [link](https://arxiv.org/pdf/2504.08848) | - |
 |   25.02   | ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails | Arxiv | [link](https://arxiv.org/pdf/2502.13458) | [link](https://github.com/luka-group/ThinkGuard) |
 |   25.01   | GuardReasoner: Towards Reasoning-based LLM Safeguards | Arxiv | [link](https://arxiv.org/pdf/2501.18492) | [link](https://github.com/yueliu1999/GuardReasoner/) |
+
+## Contributors
+<a href="https://github.com/WangCheng0116" target="_blank"><img src="https://avatars.githubusercontent.com/u/111694270?s=64&v=4" alt="wangcheng" width="66" height="66"/></a> 
+<a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="66" height="66"/></a> 
+<a href="https://github.com/fangjf1" target="_blank"><img src="https://avatars.githubusercontent.com/u/206679138?s=64&v=4" alt="junfeng" width="66" height="66"/></a> 
+
+
