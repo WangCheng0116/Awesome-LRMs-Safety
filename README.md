@@ -26,6 +26,23 @@ This repository contains a carefully curated collection of papers discussed in o
 ## Table of Content
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Safety Risks of LRMs](#safety-risks-of-lrms)
+  - [Harmful Request Compliance Risks](#harmful-request-compliance-risks)
+  - [Agentic Misbehavior Risks](#agentic-misbehavior-risks)
+  - [Multi-lingual Safety Risks](#multi-lingual-safety-risks)
+  - [Multi-modal Safety Risks](#multi-modal-safety-risks)
+- [Attacks on LRMs](#attacks-on-lrms)
+  - [Reasoning Length Attacks](#reasoning-length-attacks)
+  - [Answer Correctness Attacks](#answer-correctness-attacks)
+  - [Prompt Injection Attacks](#prompt-injection-attacks)
+  - [Jailbreak Attacks](#jailbreak-attacks)
+- [Defenses for LRMs](#defenses-for-lrms)
+  - [Safety Alignment of LRMs](#safety-alignment-of-lrms)
+  - [Inference-time Defenses for LRMs](#inference-time-defenses-for-lrms)
+  - [Guard Models for LRMs](#guard-models-for-lrms)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Safety Risks of LRMs
