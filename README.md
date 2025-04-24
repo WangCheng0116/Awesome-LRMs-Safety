@@ -27,19 +27,6 @@ This repository contains a carefully curated collection of papers discussed in o
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<div align="center">
-  <img src="./timeline.png" alt="overview" width="50%" />
-</div>
-
-<div align="center">
-  <img src="./taxonomy.png" alt="taxonomy" width="50%" />
-</div>
 
 
-## Citation
-If you find this resource helpful, please consider starring this repo and citing our paper in your research:
-
-## Contributor
----
-
-🚀 Let's build a safer future for reasoning AI together! 🚀
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
