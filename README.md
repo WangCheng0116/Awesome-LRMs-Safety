@@ -51,6 +51,7 @@ This repository contains a carefully curated collection of papers discussed in o
   - [Safety Alignment of LRMs](#safety-alignment-of-lrms)
   - [Inference-time Defenses for LRMs](#inference-time-defenses-for-lrms)
   - [Guard Models for LRMs](#guard-models-for-lrms)
+- [Reference](#reference)
 - [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
