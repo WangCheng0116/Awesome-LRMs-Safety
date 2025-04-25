@@ -23,6 +23,13 @@ This repository contains a carefully curated collection of papers discussed in o
 - 🔀 Create a PR if you notice missing papers
 - 📣 Share with the research community
 
+<div align="center">
+  <img src="./timeline.png" alt="Timeline overview" width="66%">
+  <br>
+  <img src="./taxonomy.png" alt="Taxonomy overview" width="66%">
+</div>
+
+
 ## Table of Content
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
