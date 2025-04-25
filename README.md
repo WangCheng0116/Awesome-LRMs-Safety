@@ -60,7 +60,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Harmful Request Compliance Risks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--: | :--:  |
 |   25.04   |  DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning | Arxiv |   [link](https://arxiv.org/pdf/2504.07128)  |    -  |
 |   25.01   | Early External Safety Testing of OpenAI's o3-mini: Insights from the Pre-Deployment Evaluation | Arxiv |   [link](https://arxiv.org/pdf/2501.17749)   |   -   |
 |   25.01   | o3-mini vs DeepSeek-R1: Which One is Safer? | Arxiv |  [link](https://arxiv.org/pdf/2501.18438)    |    -  |
@@ -68,7 +68,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Agentic Misbehavior Risks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 |   25.04   | Emerging Cyber Attack Risks of Medical AI Agents | Arxiv | [link](https://arxiv.org/pdf/2504.03759) | - |
 |   25.02   | Nuclear Deployed: Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents | Arxiv | [link](https://arxiv.org/abs/2502.11355) | [link](https://github.com/pillowsofwind/LLM-CBRN-Risks) |
 |   25.02   |  Demonstrating specification gaming in reasoning models | Arxiv | [link](https://arxiv.org/pdf/2502.13295) | - |
@@ -79,7 +79,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Multi-lingual Safety Risks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 |   25.03   | Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings  | Arxiv | [link](https://arxiv.org/pdf/2503.15092) | [link](https://github.com/NY1024/DeepSeek-Safety-Eval) |
 |   25.03   | Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives | Arxiv | [link](https://arxiv.org/pdf/2503.10192) | - |
 |   25.02   | Safety Evaluation of DeepSeek Models in Chinese Contexts | Arxiv | [link](https://arxiv.org/pdf/2502.11137) | - |
@@ -87,7 +87,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Multi-modal Safety Risks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 |   25.04   | SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models | Arxiv | [link](https://arxiv.org/pdf/2504.08813) | [link](https://github.com/fangjf1/OpenSafeMLRM) |
 
 ## Attacks on LRMs
@@ -95,7 +95,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Reasoning Length Attacks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 | ***<ins>Overthinking</ins>*** |  | | | |
 |   25.02   | OverThink: Slowdown Attacks on Reasoning LLMs | Arxiv | [link](https://arxiv.org/pdf/2502.02542) | [link](https://github.com/akumar2709/OVERTHINK_public) |
 |   25.01   | Trading Inference-Time Compute for Adversarial Robustness | Arxiv | [link](https://arxiv.org/pdf/2501.18841) | - |
@@ -105,7 +105,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Answer Correctness Attacks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 | ***<ins>Reasoning-based Backdoor Attacks</ins>*** |  | | | |
 |   25.04   | ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs | Arxiv | [link](https://arxiv.org/pdf/2504.05605) | - |
 |   25.02   | BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack | Arxiv | [link](https://arxiv.org/pdf/2502.12202) | [link](https://github.com/zihao-ai/BoT) |
@@ -117,7 +117,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Prompt Injection Attacks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 |   25.02   | The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1 | Arxiv | [link](https://arxiv.org/pdf/2502.12659) | - |
 |   25.01   | Trading Inference-Time Compute for Adversarial Robustness | Arxiv | [link](https://arxiv.org/pdf/2501.18841) | - |
 
@@ -125,7 +125,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Jailbreak Attacks
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 | ***<ins>Prompt-based Attacks</ins>*** |  | | | |
 |   25.04   | SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models | Arxiv | [link](https://arxiv.org/pdf/2504.08813) | [link](https://github.com/fangjf1/OpenSafeMLRM) |
 |   25.03   | Towards Understanding the Safety Boundaries of DeepSeek Models: Evaluation and Findings  | Arxiv | [link](https://arxiv.org/pdf/2503.15092) | [link](https://github.com/NY1024/DeepSeek-Safety-Eval) |
@@ -143,7 +143,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Safety Alignment of LRMs
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 | ***<ins>Safe CoT Data Curation</ins>*** | | | | |
 |   25.04   | STAR-1: Safer Alignment of Reasoning LLMs with 1K Data | Arxiv | [link](https://arxiv.org/pdf/2504.01903) | [link](https://github.com/UCSC-VLAA/STAR-1) |
 |   25.04   | RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability | Arxiv | [link](https://arxiv.org/pdf/2504.10081) | [link](https://huggingface.co/RealSafe) |
@@ -160,7 +160,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Inference-time Defenses for LRMs
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 | ***<ins>Inference-time Scaling on Reasoning</ins>*** | | | | |
 |   25.01   | Trading Inference-Time Compute for Adversarial Robustness | Arxiv | [link](https://arxiv.org/pdf/2501.18841) | - |
 | ***<ins>Safe Decoding for Reasoning</ins>*** | | | | |
@@ -169,7 +169,7 @@ This repository contains a carefully curated collection of papers discussed in o
 ### Guard Models for LRMs
 
 | Time | Title | Venue | Paper | Code |
-| ---- | ----- | ----- | ----- | ---- |
+| ---- | ----- | :--:  | :--:  | :--: |
 | ***<ins>Classifier-based Guard Model</ins>*** | | | | |
 |   25.03   | Safe RLHF-V: Safe Reinforcement Learning from Human Feedback in Multimodal Large Language Models | Arxiv | [link](https://arxiv.org/pdf/2503.17682) | [link](https://github.com/SafeRLHF-V) |
 |   25.01   | Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails | Arxiv | [link](https://arxiv.org/pdf/2501.09004) | - |
