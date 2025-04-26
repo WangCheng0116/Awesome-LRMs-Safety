@@ -152,6 +152,7 @@ This repository contains a carefully curated collection of papers discussed in o
 | ***<ins>SFT-based Safety Alignment on Reasoning</ins>*** | | | | |
 |   25.04   | RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability | Arxiv | [link](https://arxiv.org/pdf/2504.10081) | [link](https://huggingface.co/RealSafe) |
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
+|   25.02   | Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment | Arxiv | [link](https://arxiv.org/pdf/2502.04040) | - |
 | ***<ins>RL-based Safety Alignment on Reasoning</ins>*** | | | | |
 |   25.04   | SaRO: Enhancing LLM Safety through Reasoning-based Alignment | Arxiv | [link](https://arxiv.org/pdf/2504.09420) | [link](https://github.com/MurrayTom/SaRO) |
 |   25.02   | STAIR: Improving Safety Alignment with Introspective Reasoning | Arxiv | [link](https://arxiv.org/pdf/2502.02384) | [link](https://github.com/thu-ml/STAIR) |
