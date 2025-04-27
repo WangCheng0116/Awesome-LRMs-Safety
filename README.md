@@ -166,6 +166,7 @@ This repository contains a carefully curated collection of papers discussed in o
 | ***<ins>Inference-time Scaling on Reasoning</ins>*** | | | | |
 |   25.01   | Trading Inference-Time Compute for Adversarial Robustness | Arxiv | [link](https://arxiv.org/pdf/2501.18841) | - |
 | ***<ins>Safe Decoding for Reasoning</ins>*** | | | | |
+|   25.03   | Effectively Controlling Reasoning Models through Thinking Intervention | Arxiv | [link](https://arxiv.org/pdf/2503.24370) | - |
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
 
 ### Guard Models for LRMs
