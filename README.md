@@ -151,6 +151,7 @@ This repository contains a carefully curated collection of papers discussed in o
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
 | ***<ins>SFT-based Safety Alignment on Reasoning</ins>*** | | | | |
 |   25.04   | RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability | Arxiv | [link](https://arxiv.org/pdf/2504.10081) | [link](https://huggingface.co/RealSafe) |
+|   25.03   | Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable | Arxiv | [link](https://arxiv.org/abs/2503.00555) | [link](https://github.com/git-disl/Safety-Tax) |
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
 |   25.02   | Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment | Arxiv | [link](https://arxiv.org/pdf/2502.04040) | - |
 | ***<ins>RL-based Safety Alignment on Reasoning</ins>*** | | | | |
