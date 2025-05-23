@@ -11,6 +11,41 @@
 
 ---
 
+## Reference
+
+If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
+
+
+```
+@article{wang2025safety,
+  title={Safety in Large Reasoning Models: A Survey},
+  author={Wang, Cheng and Liu, Yue and Li, Baolong and Zhang, Duzhen and Li, Zhongzhi and Fang, Junfeng},
+  journal={arXiv preprint arXiv:2504.17704},
+  year={2025}
+}
+
+@article{liuyue_GuardReasoner,
+  title={GuardReasoner: Towards Reasoning-based LLM Safeguards},
+  author={Liu, Yue and Gao, Hongcheng and Zhai, Shengfang and Jun, Xia and Wu, Tianyi and Xue, Zhiwei and Chen, Yulin and Kawaguchi, Kenji and Zhang, Jiaheng and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2501.18492},
+  year={2025}
+}
+
+@article{liuyue_FlipAttack,
+  title={FlipAttack: Jailbreak LLMs via Flipping},
+  author={Liu, Yue and He, Xiaoxin and Xiong, Miao and Fu, Jinlan and Deng, Shumin and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2410.02832},
+  year={2024}
+}
+
+@article{liuyue_GuardReasoner_VL,
+  title={GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning},
+  author={Liu, Yue and Zhai, Shengfang and Du, Mingzhe and Chen, Yulin and Cao, Tri and Gao, Hongcheng and Wang, Cheng and Li, Xinfeng and Wang, Kun and Fang, Junfeng and Zhang, Jiaheng and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2505.11049},
+  year={2025}
+}
+```
+
 This repository contains a carefully curated collection of papers discussed in our survey: ["Safety in Large Reasoning Models: A Survey"](https://arxiv.org/abs/2504.17704). As LRMs become increasingly powerful, understanding their safety implications becomes critical for responsible AI development. We created this resource to support researchers and practitioners working in this emerging field. If you find this repo useful for your work or research, it is really appreciated if you star this repository and cite our paper.
 
 ## 📚 What's Inside?
@@ -186,18 +221,8 @@ This repository contains a carefully curated collection of papers discussed in o
 |   25.02   | ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails | Arxiv | [link](https://arxiv.org/pdf/2502.13458) | [link](https://github.com/luka-group/ThinkGuard) |
 |   25.01   | GuardReasoner: Towards Reasoning-based LLM Safeguards | Arxiv | [link](https://arxiv.org/pdf/2501.18492) | [link](https://github.com/yueliu1999/GuardReasoner/) |
 
-## Reference
 
-If you find our repo or paper helpful, it is really appreciated if you cite our papers. :sparkles:
 
-```
-@article{wang2025safety,
-  title={Safety in Large Reasoning Models: A Survey}, 
-  author={Cheng Wang and Yue Liu and Baolong Li and Duzhen Zhang and Zhongzhi Li and Junfeng Fang},
-  journal={arXiv preprint arXiv:2504.17704},
-  year={2025}
-}
-```
 
 ## Contributors
 <a href="https://github.com/WangCheng0116" target="_blank"><img src="https://avatars.githubusercontent.com/u/111694270?s=64&v=4" alt="wangcheng" width="66" height="66"/></a> 
