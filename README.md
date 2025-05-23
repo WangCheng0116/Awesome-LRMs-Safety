@@ -11,6 +11,8 @@
 
 ---
 
+This repository contains a carefully curated collection of papers discussed in our survey: ["Safety in Large Reasoning Models: A Survey"](https://arxiv.org/abs/2504.17704). As LRMs become increasingly powerful, understanding their safety implications becomes critical for responsible AI development. We created this resource to support researchers and practitioners working in this emerging field. If you find this repo useful for your work or research, it is really appreciated if you star this repository and cite our paper.
+
 ## Reference
 
 If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
@@ -45,8 +47,6 @@ If you find this repository helpful for your research, we would greatly apprecia
   year={2025}
 }
 ```
-
-This repository contains a carefully curated collection of papers discussed in our survey: ["Safety in Large Reasoning Models: A Survey"](https://arxiv.org/abs/2504.17704). As LRMs become increasingly powerful, understanding their safety implications becomes critical for responsible AI development. We created this resource to support researchers and practitioners working in this emerging field. If you find this repo useful for your work or research, it is really appreciated if you star this repository and cite our paper.
 
 ## 📚 What's Inside?
 - 🔬 Cutting-edge research on LRMs vulnerabilities
