@@ -154,7 +154,9 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time | Title | Venue | Paper | Code |
 | ---- | ----- | :--:  | :--:  | :--: |
 |   25.02   | The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1 | Arxiv | [link](https://arxiv.org/pdf/2502.12659) | - |
+|   25.02   | Can Indirect Prompt Injection Attacks Be Detected and Removed? | Arxiv | [link](https://arxiv.org/pdf/2502.16580) | - |
 |   25.01   | Trading Inference-Time Compute for Adversarial Robustness | Arxiv | [link](https://arxiv.org/pdf/2501.18841) | - |
+|   24.11   | Defense Against Prompt Injection Attack by Leveraging Attack Techniques | Arxiv | [link](https://arxiv.org/pdf/2411.00459) | - |
 
 
 ### Jailbreak Attacks
