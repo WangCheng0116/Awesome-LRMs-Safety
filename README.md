@@ -19,11 +19,14 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 
 ```
-@article{wang2025safety,
-  title={Safety in Large Reasoning Models: A Survey},
-  author={Wang, Cheng and Liu, Yue and Li, Baolong and Zhang, Duzhen and Li, Zhongzhi and Fang, Junfeng},
-  journal={arXiv preprint arXiv:2504.17704},
-  year={2025}
+@misc{wang2025safetylargereasoningmodels,
+      title={Safety in Large Reasoning Models: A Survey}, 
+      author={Cheng Wang and Yue Liu and Baolong Bi and Duzhen Zhang and Zhong-Zhi Li and Yingwei Ma and Yufei He and Shengju Yu and Xinfeng Li and Junfeng Fang and Jiaheng Zhang and Bryan Hooi},
+      year={2025},
+      eprint={2504.17704},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.17704}, 
 }
 
 @article{liuyue_GuardReasoner,
@@ -31,13 +34,6 @@ If you find this repository helpful for your research, we would greatly apprecia
   author={Liu, Yue and Gao, Hongcheng and Zhai, Shengfang and Jun, Xia and Wu, Tianyi and Xue, Zhiwei and Chen, Yulin and Kawaguchi, Kenji and Zhang, Jiaheng and Hooi, Bryan},
   journal={arXiv preprint arXiv:2501.18492},
   year={2025}
-}
-
-@article{liuyue_FlipAttack,
-  title={FlipAttack: Jailbreak LLMs via Flipping},
-  author={Liu, Yue and He, Xiaoxin and Xiong, Miao and Fu, Jinlan and Deng, Shumin and Hooi, Bryan},
-  journal={arXiv preprint arXiv:2410.02832},
-  year={2024}
 }
 
 @article{liuyue_GuardReasoner_VL,
