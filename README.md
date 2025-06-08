@@ -177,11 +177,14 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title | Venue | Paper | Code |
 | ---- | ----- | :--:  | :--:  | :--: |
+| ***<ins>Harm CoT Data Curation</ins>*** | | | | |
+|   25.05   | SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment | Arxiv | [link](https://arxiv.org/pdf/2505.14667) | [link](https://huggingface.co/collections/AI-ISL/model-with-safepath-6833f7e2924393051aeb4251) |
 | ***<ins>Safe CoT Data Curation</ins>*** | | | | |
 |   25.04   | STAR-1: Safer Alignment of Reasoning LLMs with 1K Data | Arxiv | [link](https://arxiv.org/pdf/2504.01903) | [link](https://github.com/UCSC-VLAA/STAR-1) |
 |   25.04   | RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability | Arxiv | [link](https://arxiv.org/pdf/2504.10081) | [link](https://huggingface.co/RealSafe) |
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
 | ***<ins>SFT-based Safety Alignment on Reasoning</ins>*** | | | | |
+|   25.05   | SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment | Arxiv | [link](https://arxiv.org/pdf/2505.14667) | [link](https://huggingface.co/collections/AI-ISL/model-with-safepath-6833f7e2924393051aeb4251) |
 |   25.04   | RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability | Arxiv | [link](https://arxiv.org/pdf/2504.10081) | [link](https://huggingface.co/RealSafe) |
 |   25.03   | Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable | Arxiv | [link](https://arxiv.org/abs/2503.00555) | [link](https://github.com/git-disl/Safety-Tax) |
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
@@ -199,6 +202,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | ***<ins>Inference-time Scaling on Reasoning</ins>*** | | | | |
 |   25.01   | Trading Inference-Time Compute for Adversarial Robustness | Arxiv | [link](https://arxiv.org/pdf/2501.18841) | - |
 | ***<ins>Safe Decoding for Reasoning</ins>*** | | | | |
+|   25.05   | SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment | Arxiv | [link](https://arxiv.org/pdf/2505.14667) | [link](https://huggingface.co/collections/AI-ISL/model-with-safepath-6833f7e2924393051aeb4251) |
 |   25.03   | Effectively Controlling Reasoning Models through Thinking Intervention | Arxiv | [link](https://arxiv.org/pdf/2503.24370) | - |
 |   25.02   | SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities | Arxiv | [link](https://arxiv.org/pdf/2502.12025) | [link](https://safe-chain.github.io/) |
 
